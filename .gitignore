@@ -1,0 +1,30 @@
+# User-specific files
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istro/
+[Ll]ogs/
+
+# Unity-specific folders to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Tt]argets/
+obj/
+.venv/
+
+# User-specific config files
+.idea/
+.vscode/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
